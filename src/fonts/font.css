@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "GE SS Text B";
+  src: url("GESSTextBold-Bold.woff2") format("woff2"),
+    url("GESSTextBold-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* @font-face {
+  font-family: "AkhbarMT";
+  src: url("AkhbarMT.woff2") format("woff2"),
+    url("AkhbarMT.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+} */
+
+@font-face {
+  font-family: "GE SS Text";
+  src: url("GESSTextMedium-Medium.woff2") format("woff2"),
+    url("GESSTextMedium-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

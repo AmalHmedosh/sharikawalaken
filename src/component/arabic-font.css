@@ -1,0 +1,7 @@
+.text-header {
+  font-family: var(--main-title-ar-font);
+}
+
+.text-body {
+  font-family: var(--main-body-ar-font), Helvetica, sans-serif;
+}
