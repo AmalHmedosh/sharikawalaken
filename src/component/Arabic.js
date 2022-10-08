@@ -46,7 +46,7 @@ function Arabic() {
       <div className="py-5 m-auto container">
         <Text5 />
       </div>
-      <Title title={"نساء يخفين حملهن "} img={"background-title4"} />
+      <Title title={"نساء يُخفين حملهن "} img={"background-title4"} />
       <div className="py-5 m-auto container">
         <Text6 />
       </div>

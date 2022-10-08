@@ -75,3 +75,21 @@ html,
 .dir-ltr {
   direction: ltr;
 }
+
+.head h1 {
+  font-size: 2em;
+}
+
+.head p {
+  font-size: 1.5em;
+}
+
+@media screen and (max-width: 280px) {
+  .head h1 {
+    font-size: 1.2em;
+  }
+
+  .head p {
+    font-size: 1em;
+  }
+}
