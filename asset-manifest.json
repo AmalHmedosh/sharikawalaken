@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sharikawalaken/static/css/main.e0d7cc98.css",
-    "main.js": "/sharikawalaken/static/js/main.d48b501f.js",
+    "main.js": "/sharikawalaken/static/js/main.1f97aa3a.js",
     "static/js/787.fe233384.chunk.js": "/sharikawalaken/static/js/787.fe233384.chunk.js",
     "static/media/تعديل 2.jpg": "/sharikawalaken/static/media/تعديل 2.379a843c24f2b6ad2eef.jpg",
     "static/media/O3.jpg": "/sharikawalaken/static/media/O3.ecd706cea92f5a62bddd.jpg",
@@ -16,11 +16,11 @@
     "static/media/GESSTextMedium-Medium.woff2": "/sharikawalaken/static/media/GESSTextMedium-Medium.0cebbfea1317c2d308b7.woff2",
     "index.html": "/sharikawalaken/index.html",
     "main.e0d7cc98.css.map": "/sharikawalaken/static/css/main.e0d7cc98.css.map",
-    "main.d48b501f.js.map": "/sharikawalaken/static/js/main.d48b501f.js.map",
+    "main.1f97aa3a.js.map": "/sharikawalaken/static/js/main.1f97aa3a.js.map",
     "787.fe233384.chunk.js.map": "/sharikawalaken/static/js/787.fe233384.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0d7cc98.css",
-    "static/js/main.d48b501f.js"
+    "static/js/main.1f97aa3a.js"
   ]
 }
