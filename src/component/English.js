@@ -64,7 +64,12 @@ function English() {
       />
 
       <div className="py-5 m-auto container">
-        <Part2 te={<Text7 />} />
+        <Part2
+          te={<Text7 />}
+          tm={
+            "Map of the geographical distribution of Syrian civil society organizations"
+          }
+        />
         <Part
           text={<Text8 />}
           chart={

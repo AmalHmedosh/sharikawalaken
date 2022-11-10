@@ -3,7 +3,7 @@ import { Chart } from "react-google-charts";
 
 function YesOrNoP({ datas, titles }) {
   return (
-    <div className="dir-ltr m-auto w-full overflow-y-hidden">
+    <div className="dir-ltr m-auto w-full overflow-hidden">
       <h3>{titles}</h3>
       <Chart
         chartType="PieChart"
