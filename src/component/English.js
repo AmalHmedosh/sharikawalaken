@@ -38,6 +38,10 @@ function English() {
           av={<Avarage />}
           te={<Text2 />}
         />
+        <p className="text-center mb-5 font-bold">
+          Duration of leave granted to female workers in civil society
+          organizations
+        </p>
         <Text3 />
       </div>
       <Title title={"C-Section Prayer"} img={"background-title3"} />

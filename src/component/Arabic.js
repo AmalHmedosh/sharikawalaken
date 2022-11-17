@@ -19,6 +19,7 @@ import NavbarA from "./NavbarA";
 import Avarage from "./Avarage";
 import Text2 from "./text-ar/Text2";
 import Text7 from "./text-ar/Text7";
+import YoutubeEmbed from "./Video";
 import "./arabic-font.css";
 function Arabic() {
   return (
@@ -36,8 +37,12 @@ function Arabic() {
           av={<Avarage />}
           te={<Text2 />}
         />
+        <p className="font-bold text-center mb-5">
+          مدة الإجازات الممنوحة للعاملات في منظمات المجتمع المدني
+        </p>
         <Text3 />
       </div>
+      <YoutubeEmbed embedId="lawk_1ZGrgs" />
       <Title title={"دُعاء القيصرية"} img={"background-title3"} />
       <div className="py-5 m-auto container">
         <Text4 />
