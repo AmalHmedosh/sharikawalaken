@@ -14,9 +14,6 @@ function YoutubeEmbed({ embedId }) {
         title="Embedded youtube"
       />
     </div>
-    // <div>
-    //   <video src="https://www.youtube.com/watch?v=lawk_1ZGrgs" autoPlay loop />
-    // </div>
   );
 }
 YoutubeEmbed.propTypes = {
