@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sharikawalaken/static/css/main.b7d3f0d7.css",
-    "main.js": "/sharikawalaken/static/js/main.506d8fa7.js",
+    "main.css": "/sharikawalaken/static/css/main.1d08b0e2.css",
+    "main.js": "/sharikawalaken/static/js/main.5a71cd44.js",
     "static/js/787.fe233384.chunk.js": "/sharikawalaken/static/js/787.fe233384.chunk.js",
     "static/media/تعديل 2.jpg": "/sharikawalaken/static/media/تعديل 2.379a843c24f2b6ad2eef.jpg",
     "static/media/O3.jpg": "/sharikawalaken/static/media/O3.ecd706cea92f5a62bddd.jpg",
     "static/media/O2.jpg": "/sharikawalaken/static/media/O2.7cf9bed1065fa31b2036.jpg",
     "static/media/O1-1.jpg": "/sharikawalaken/static/media/O1-1.e6bf7f3396e78cb7808f.jpg",
     "static/media/Ot2.jpg": "/sharikawalaken/static/media/Ot2.741e4a2c9dbf7a85220f.jpg",
-    "static/media/c2.jpg": "/sharikawalaken/static/media/c2.30e9885b9fffa0da7bbc.jpg",
+    "static/media/c2.jpg": "/sharikawalaken/static/media/c2.f2b21a626974a173c498.jpg",
     "static/media/base-logo.png": "/sharikawalaken/static/media/base-logo.182b46bdc3b4bba10fb4.png",
     "static/media/GESSTextBold-Bold.woff": "/sharikawalaken/static/media/GESSTextBold-Bold.ff64e392e52f1afcc353.woff",
     "static/media/GESSTextMedium-Medium.woff": "/sharikawalaken/static/media/GESSTextMedium-Medium.8526238239779f2dc915.woff",
     "static/media/GESSTextBold-Bold.woff2": "/sharikawalaken/static/media/GESSTextBold-Bold.dfa5691f8f99bd82591d.woff2",
     "static/media/GESSTextMedium-Medium.woff2": "/sharikawalaken/static/media/GESSTextMedium-Medium.0cebbfea1317c2d308b7.woff2",
     "index.html": "/sharikawalaken/index.html",
-    "main.b7d3f0d7.css.map": "/sharikawalaken/static/css/main.b7d3f0d7.css.map",
-    "main.506d8fa7.js.map": "/sharikawalaken/static/js/main.506d8fa7.js.map",
+    "main.1d08b0e2.css.map": "/sharikawalaken/static/css/main.1d08b0e2.css.map",
+    "main.5a71cd44.js.map": "/sharikawalaken/static/js/main.5a71cd44.js.map",
     "787.fe233384.chunk.js.map": "/sharikawalaken/static/js/787.fe233384.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7d3f0d7.css",
-    "static/js/main.506d8fa7.js"
+    "static/css/main.1d08b0e2.css",
+    "static/js/main.5a71cd44.js"
   ]
 }
